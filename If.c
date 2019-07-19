@@ -11,7 +11,7 @@
 int main (){
 	//Declarar variables
 	int n1,n2;
-	//Solicitar información
+	//Solicitar informaciÃ³n
 	printf("Escriba dos numeros enteros \n");
 	scanf("%i %i",&n1,&n2);
 	//Variable If
